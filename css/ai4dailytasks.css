@@ -1,0 +1,10 @@
+body {
+    font-family: Quicksand, sans-serif;
+}
+
+.us img {
+    max-height: 200px;
+}
+.us a {
+    color:  black;
+}
