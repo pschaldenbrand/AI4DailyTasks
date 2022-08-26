@@ -4,8 +4,8 @@ body {
 
 .us img {
     object-fit: cover;
-    max-height: 200px;
-    max-width: 150px;
+    height: 200px;
+    max-width: 200px;
 }
 .us a {
     color:  black;
