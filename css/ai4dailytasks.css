@@ -3,7 +3,9 @@ body {
 }
 
 .us img {
+    object-fit: cover;
     max-height: 200px;
+    max-width: 150px;
 }
 .us a {
     color:  black;
